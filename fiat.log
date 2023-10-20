@@ -1,0 +1,36 @@
+12月 02, 2022 10:09:49 下午 fiat.app.server.ServerAIO$2 completed
+WARNING: Receive Message GET (TS=5)
+12月 02, 2022 10:09:49 下午 fiat.app.server.ServerAIO makeSendMsg
+INFO: Sent Message to /127.0.0.1:3000LIST (TS=1670040589815) last mod=1670040581021, list={xyz with 3 calories and 5g of fat eaten at Dinner,1 ⸠ with 40 calories and 1g of fat eaten at Dinner}
+12月 02, 2022 10:09:49 下午 fiat.app.server.ServerAIO$2 completed
+INFO: Handled read of 13 bytes
+12月 02, 2022 10:09:49 下午 fiat.app.server.ServerAIO$2 completed
+WARNING: Receive Message ADD (TS=5) item=8 with 0 calories and 5g of fat eaten at Snack
+12月 02, 2022 10:09:49 下午 fiat.app.server.ServerAIO makeSendMsg
+INFO: Sent Message to /127.0.0.1:3000LIST (TS=1670040589829) last mod=1670040589828, list={xyz with 3 calories and 5g of fat eaten at Dinner,1 ⸠ with 40 calories and 1g of fat eaten at Dinner,8 with 0 calories and 5g of fat eaten at Snack}
+12月 02, 2022 10:09:49 下午 fiat.app.server.ServerAIO$2 completed
+INFO: Handled read of 23 bytes
+12月 02, 2022 10:09:49 下午 fiat.app.server.ServerAIO$2 completed
+INFO: Handled read of -1 bytes
+12月 02, 2022 10:09:49 下午 fiat.app.server.ServerAIO$2 completed
+WARNING: Receive Message ERROR (TS=5) message=x
+12月 02, 2022 10:09:49 下午 fiat.app.server.ServerAIO makeSendMsg
+INFO: Sent Message to /127.0.0.1:3000ERROR (TS=1670040589837) message=Unexpected message receive on Server
+12月 02, 2022 10:09:49 下午 fiat.app.server.ServerAIO$2 completed
+INFO: Handled read of 18 bytes
+12月 02, 2022 10:09:49 下午 fiat.app.server.ServerAIO$2 completed
+WARNING: Receive Message GET (TS=5)
+12月 02, 2022 10:09:49 下午 fiat.app.server.ServerAIO makeSendMsg
+INFO: Sent Message to /127.0.0.1:3000LIST (TS=1670040589842) last mod=1670040589828, list={xyz with 3 calories and 5g of fat eaten at Dinner,1 ⸠ with 40 calories and 1g of fat eaten at Dinner,8 with 0 calories and 5g of fat eaten at Snack}
+12月 02, 2022 10:09:49 下午 fiat.app.server.ServerAIO$2 completed
+INFO: Handled read of 13 bytes
+12月 02, 2022 10:09:49 下午 fiat.app.server.ServerAIO$2 completed
+INFO: Handled read of -1 bytes
+12月 02, 2022 10:09:49 下午 fiat.app.server.ServerAIO$2 completed
+WARNING: Invalid Message [B@7e41293d
+12月 02, 2022 10:09:49 下午 fiat.app.server.ServerAIO makeSendMsg
+INFO: Sent Message to /127.0.0.1:3000-ERROR (TS=1670040589845) message=Invalid message connection end
+12月 02, 2022 10:09:49 下午 fiat.app.server.ServerAIO$2 completed
+INFO: Handled read of 14 bytes
+12月 02, 2022 10:09:49 下午 fiat.app.server.ServerAIO$2 completed
+INFO: Handled read of -1 bytes
